@@ -1,0 +1,35 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SurvivalGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/SurvivalGameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/Module.SurvivalGame.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/SurvivalGame.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/SurvivalGameCameraManager.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/SurvivalGameCharacter.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/SurvivalGameGameMode.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/SurvivalGamePlayerController.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/HorrorCharacter.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/HorrorGameMode.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/HorrorPlayerController.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/HorrorUI.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterCharacter.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterGameMode.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterPlayerController.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/EnvQueryContext_Target.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterAIController.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterNPC.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterNPCSpawner.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterStateTreeUtility.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterBulletCounterUI.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterUI.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterPickup.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterProjectile.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterWeapon.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/ShooterWeaponHolder.cpp.obj"
+"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/Default.rc2.res"
+/OUT:"C:/Users/Madison/OneDrive/Documents/Unreal Projects/SurvivalGame/Intermediate/Build/Win64/x64/UnrealEditor/Development/SurvivalGame/UnrealEditor-SurvivalGame.lib"

@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\source\\survivalgame\\variant_shooter\\ai\\shooternpcspawner.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\intermediate\\build\\win64\\x64\\survivalgameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\survivalgame\\definitions.survivalgame.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\source\\survivalgame\\variant_shooter\\ai\\shooternpcspawner.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\shooternpcspawner.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\capsulecomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\capsulecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\components\\arrowcomponent.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\arrowcomponent.generated.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\source\\survivalgame\\variant_shooter\\ai\\shooternpc.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\source\\survivalgame\\survivalgamecharacter.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\net\\iris\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "c:\\program files\\epic games\\ue_5.7\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\survivalgamecharacter.generated.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\source\\survivalgame\\variant_shooter\\weapons\\shooterweaponholder.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\shooterweaponholder.generated.h",
+            "c:\\users\\madison\\onedrive\\documents\\unreal projects\\survivalgame\\intermediate\\build\\win64\\unrealeditor\\inc\\survivalgame\\uht\\shooternpc.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
